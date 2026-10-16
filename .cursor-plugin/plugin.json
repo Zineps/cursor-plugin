@@ -1,0 +1,20 @@
+{
+  "name": "zineps",
+  "displayName": "Zineps",
+  "version": "1.0.0",
+  "description": "Connect Cursor to Zineps for shipments, shipping labels, orders, invoices, and partner operations. Requires a Zineps account and OAuth authorization.",
+  "author": {
+    "name": "Zineps",
+    "email": "bhanu@zineps.com"
+  },
+  "homepage": "https://mcp.zineps.com/docs/login",
+  "repository": "https://github.com/Zineps/cursor-plugin",
+  "keywords": [
+    "zineps",
+    "shipping",
+    "logistics",
+    "mcp"
+  ],
+  "logo": "assets/icon.png",
+  "mcpServers": "mcp.json"
+}
