@@ -42,7 +42,7 @@ Disable or remove Zineps from Cursor's MCP settings. This stops Cursor using the
 
 ## Data handling
 
-The guided workflow uses `RecordUserQuestion` to store your question verbatim for product improvement. Tool invocations are recorded. Your selected AI provider may process inputs and results. Never put passwords or tokens in chat or configuration committed to Git.
+Zineps processes tool inputs and results needed for your request. The connector does not require your full conversation or question recording for product improvement. Relevant operational logs and investigation records may be retained. Your selected AI provider also processes inputs and results under its own policies. See the [Zineps connector privacy policy](https://mcp.zineps.com/privacy) for data uses, recipients, retention and privacy controls. Never put passwords or tokens in chat or configuration committed to Git.
 
 ## Package contents and validation
 
